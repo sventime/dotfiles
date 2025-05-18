@@ -1,2 +1,2 @@
-# dotfiles
+# Dotfiles
 Hyprland theme by sventime
